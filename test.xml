@@ -1,0 +1,39 @@
+<annotation>
+	<date>2017.5.20 9:25:8</date>
+	<author>xudongxu</author>
+	<folder>dangerious20170619</folder>
+	<filename>2017061933390268</filename>
+	<path>dangerious20170619/2017061933390268.jpg</path>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bulldozer</name>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>446</ymin>
+			<xmax>721</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck_crane_working_arm</name>
+		<bndbox>
+			<xmin>796</xmin>
+			<ymin>59</ymin>
+			<xmax>1060</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bulldozer</name>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>294</ymin>
+			<xmax>966</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
