@@ -19,6 +19,18 @@
      <layout class="QHBoxLayout" name="horizontalLayout" stretch="10,2">
       <item>
        <widget class="ShowWidget" name="openGLWidget">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="minimumSize">
+         <size>
+          <width>560</width>
+          <height>330</height>
+         </size>
+        </property>
         <property name="styleSheet">
          <string notr="true">background-color: rgb(188, 255, 253);</string>
         </property>

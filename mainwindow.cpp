@@ -26,7 +26,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
 void MainWindow::onradioClicked(int id)
 {
-    type=id;
+    type=id;   
 }
 
 void MainWindow::Read(QString name)
@@ -69,6 +69,7 @@ void MainWindow::Read(QString name)
     }
     texteditshow(v_info);
     emit sendinfo(v_info);
+
 }
 
 
